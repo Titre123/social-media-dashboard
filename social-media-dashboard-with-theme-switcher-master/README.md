@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./dark.jpg)
-![](./light.jpg)
+![dark](./dark.jpg)
+![light](./light.jpg)
 
 ### Links
 
@@ -92,7 +92,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 - Name - Ola-Balogun Taiwo
 - Frontend Mentor - [@Tiazzy](https://www.frontendmentor.io/profile/Tiazzy)
-- Twitter - [@TayeorT](https://www.twitter.com/TayworT)
+- Twitter - [@TayworT](https://www.twitter.com/TayworT)
 
 ## Acknowledgments
 
