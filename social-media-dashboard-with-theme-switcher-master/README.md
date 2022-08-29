@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![dark](./dark.jpg)
-![light](./light.jpg)
+![](./dark.JPG)
+![](./light.JPG)
 
 ### Links
 
